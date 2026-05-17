@@ -3,6 +3,10 @@
 This project presents a complete supply chain and logistics analysis using Power BI dashboards.  
 Each dashboard highlights a different business area and helps decision-makers monitor performance, identify issues, and improve results.
 
+- Analyzes key metrics such as sales trends, supplier reliability, logistics efficiency, inventory movement, and financial performance.
+- Tracks operational KPIs including delivery delays, stock levels, cost drivers, profitability patterns, and segment-wise performance.
+- Supports data-driven decisions by revealing bottlenecks, risk areas, and improvement opportunities across the supply chain.
+
 ## 1) Supply Chain and Logistics Overview
 ![Supply Chain and Logistics Overview](./Supply%20Chain%20and%20Logistics_01.png)
 
